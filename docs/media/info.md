@@ -1,0 +1,1 @@
+* [Traueranzeige Süddeutsche Zeitung vom 24.12.2022](./traueranzeige-sueddeutsche-zeitung-eckehart-schumachergebler.pdf)
