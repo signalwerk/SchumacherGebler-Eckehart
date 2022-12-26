@@ -1,0 +1,27 @@
+{
+  "name": "schumachergebler-eckehart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "build": "node packages/signalwerk.md/cli.js ./docs/index.md --language=de",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/signalwerk/SchumacherGebler-Eckehart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/signalwerk/SchumacherGebler-Eckehart/issues"
+  },
+  "homepage": "https://github.com/signalwerk/SchumacherGebler-Eckehart#readme",
+  "dependencies": {
+    "signalwerk.md": "file:packages/signalwerk.md"
+  }
+}
