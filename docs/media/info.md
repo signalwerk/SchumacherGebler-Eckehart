@@ -1,1 +1,5 @@
-* [Traueranzeige Süddeutsche Zeitung vom 24.12.2022](./traueranzeige-sueddeutsche-zeitung-eckehart-schumachergebler.pdf)
+- [Traueranzeige Süddeutsche Zeitung vom 24.12.2022](./traueranzeige-sueddeutsche-zeitung-eckehart-schumachergebler.pdf)
+- [Nachruf von Michi Bundscherer bei TGM](https://web.archive.org/web/20221227195031/https://tgm-online.de/erinnerung-an-esg/)
+- [Nachruf bei der Offizin Haag-Drugulin](https://web.archive.org/web/20221223144421/https://offizin-haag-drugulin.de/zum-tod-eckehart-schumachergeblers/)
+- [Nachruf Börsenblatt](https://web.archive.org/web/20221227200325/https://www.boersenblatt.net/news/literaturszene/eckehart-schumachergebler-ist-tot-267775)
+- [Ehrung für Eckehart SchumacherGebler](https://web.archive.org/web/20220812182852/https://tgm-online.de/esg-ehrung/)
